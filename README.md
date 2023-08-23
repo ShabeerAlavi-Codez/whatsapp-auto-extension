@@ -1,2 +1,1 @@
-# whatsapp-auto-extension
-google chrome extension for whatsapp bulk sending automation 
+# chrome-extension for sharing bulk whatsapp messages
